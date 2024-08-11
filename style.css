@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.link{
+    background-color: #333;
+    padding: 9px 0px;
+    cursor: pointer;
+    border: 0;
+    outline: 0;
+    border-radius: 11px;
+    font-weight: bold;
+    font-size: 14px;
+}
+.link:hover{
+    background-color: yellowgreen;
+}
